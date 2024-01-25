@@ -1,0 +1,17 @@
+.shop-container {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  position: relative;
+}
+
+.product-container {
+  margin: 100px 100px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.cart-container {
+  color: black;
+  font-family: 'Roboto';
+  margin-top: 50px;
+}

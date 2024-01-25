@@ -1,0 +1,33 @@
+.product img {
+  margin: 7px;
+  border-radius: 8px;
+  height: 280px;
+  width: 280px;
+}
+
+.product {
+  width: 320px;
+  height: 600px;
+  border-radius: 8px;
+  border: 1px solid greenyellow;
+  color: #0e161a;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.product-info {
+  padding: 10px;
+}
+
+.product-name {
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+
+.btn-cart {
+  width: 100%;
+  margin-right: 10px;
+  position: absolute;
+  bottom: 0px;
+  background-color: chocolate;
+}

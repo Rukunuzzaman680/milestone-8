@@ -1,0 +1,22 @@
+/* * {
+  margin: 0 auto;
+} */
+
+.header {
+  height: 80px;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.header a {
+  margin-right: 40px;
+  text-decoration: none;
+  color: #fff;
+}
+.header a:hover {
+  color: rgb(106, 226, 226);
+}
